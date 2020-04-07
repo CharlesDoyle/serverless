@@ -1,5 +1,5 @@
 This 08-dynamodb-create app is from Udacity Cloud Developer Nanodegree,
-Course 05 Serverless, Lesson 02 REST API.
+Course 05 Serverless, Lesson 02 REST API/Lecture 14 POST Method.
 This app is deployed as an AWS Lambda function.
 First generate a zip file and upload it to Lambda, then make a POST /groups API at API Gateway.  Then do a POST request from Postman to the API with a new db object in the body:
 * {id: new_uuid, name: "...", description: ".."}  
